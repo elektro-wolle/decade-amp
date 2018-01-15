@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SS-24E06-TG5)(type KiCad)(uri "$(KIPRJMOD)/SS-24E06-TG5.pretty")(options "")(descr ""))
+)
