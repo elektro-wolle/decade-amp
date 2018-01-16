@@ -1,0 +1,12 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor,
+"BT1, ",1,Keystone 1058,Battery_Cell,Battery_Holders:Keystone_1058_1x2032-CoinCell,single battery cell,,3
+"C1, C2, C3, ",3,22pF,C,Capacitors_SMD:C_0805,Unpolarized capacitor,,50
+"C4, C5, ",2,100nF,C,Capacitors_SMD:C_0805,Unpolarized capacitor,,--
+"J1, J2, ",2,Conn_Coaxial,Conn_Coaxial,Connectors:bnc-ci,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)",,
+"R1, R7, R12, ",3,1k,R,Resistors_SMD:R_0805,Resistor,RR1220P-102-D,10
+"R2, R8, R13, ",3,6k8,R,Resistors_SMD:R_0805,Resistor,RR1220P-682-D,10
+"R3, R9, R14, ",3,2k2,R,Resistors_SMD:R_0805,Resistor,RR1220P-222-D,10
+"R6, R5, ",2,100k,R,Resistors_SMD:R_0805,Resistor,RR1220P-104-D,10
+"R11, R4, R10, R15, ",4,270,R,Resistors_SMD:R_0805,Resistor,RR1220P-271-D,10
+"SW1, ",1,SS-24E06-TG 5 (P),SW_Slide2x4,SS-24E06-TG5:SS-24E06-TG 5 (P),2 rotary switch with 6 positions,,2
+"U1, U2, ",2,MCP6292-E/SN,MCP6002-xSN,Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm,"Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8",,5
