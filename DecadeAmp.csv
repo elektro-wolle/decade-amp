@@ -1,12 +1,18 @@
-Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor,
-"BT1, ",1,Keystone 1058,Battery_Cell,Battery_Holders:Keystone_1058_1x2032-CoinCell,single battery cell,,3
-"C1, C2, C3, ",3,22pF,C,Capacitors_SMD:C_0805,Unpolarized capacitor,,50
-"C4, C5, ",2,100nF,C,Capacitors_SMD:C_0805,Unpolarized capacitor,,--
-"J1, J2, ",2,Conn_Coaxial,Conn_Coaxial,Connectors:bnc-ci,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)",,
-"R1, R7, R12, ",3,1k,R,Resistors_SMD:R_0805,Resistor,RR1220P-102-D,10
-"R2, R8, R13, ",3,6k8,R,Resistors_SMD:R_0805,Resistor,RR1220P-682-D,10
-"R3, R9, R14, ",3,2k2,R,Resistors_SMD:R_0805,Resistor,RR1220P-222-D,10
-"R6, R5, ",2,100k,R,Resistors_SMD:R_0805,Resistor,RR1220P-104-D,10
-"R11, R4, R10, R15, ",4,270,R,Resistors_SMD:R_0805,Resistor,RR1220P-271-D,10
-"SW1, ",1,SS-24E06-TG 5 (P),SW_Slide2x4,SS-24E06-TG5:SS-24E06-TG 5 (P),2 rotary switch with 6 positions,,2
-"U1, U2, ",2,MCP6292-E/SN,MCP6002-xSN,Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm,"Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8",,5
+"Source:","/Users/wolle/Documents/Hardware/flipdot/decadeAmp/DecadeAmp.sch"
+"Date:","Samstag, 03. Februar 2018 'u23' 20:23:30"
+"Tool:","Eeschema 4.0.7"
+"Generator:","/Applications/Kicad/kicad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value_with_fp.py"
+"Component Count:","26"
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
+"BT1, ","1","Keystone 1058","Battery_Cell","Battery_Holders:Keystone_1058_1x2032-CoinCell","single battery cell","Keystone 1058"
+"C1, C2, C3, ","3","22pF","C","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor","885012007002"
+"C4, C5, ","2","100nF","C","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor","C0805C104K5RACTU"
+"J1, J2, ","2","Conn_Coaxial","Conn_Coaxial","Connector_Coaxial:BNC_TEConnectivity_1478204_Vertical","coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)","TE-5-1634503-1"
+"R1, R7, R12, ","3","1k","R","Resistor_SMD:R_0805_2012Metric","Resistor","RR1220P-102-D"
+"R2, R8, R13, ","3","6k8","R","Resistor_SMD:R_0805_2012Metric","Resistor","RR1220P-682-D"
+"R3, R9, R14, ","3","2k2","R","Resistor_SMD:R_0805_2012Metric","Resistor","RR1220P-222-D"
+"R6, R5, ","2","100k","R","Resistor_SMD:R_0805_2012Metric","Resistor","RR1220P-104-D"
+"R11, R4, R10, R15, ","4","270","R","Resistor_SMD:R_0805_2012Metric","Resistor","RC0805JR-07270RL"
+"SW1, ","1","SS-24E06-TG 5 (P)","SW_Slide2x4","SS-24E06-TG5:SS-24E06-TG 5 (P)","2 rotary switch with 6 positions","SS-24E06-TG 5 (P)"
+"U1, ","1","MCP6V27-E/SN","MCP6002-xSN","Package_SOIC:SOIC-8_3.9x4.9mm_P1.27mm","Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8","MCP6V27-E/SN"
+"U2, ","1","MCP6292-E/SN","MCP6002-xSN","Package_SOIC:SOIC-8_3.9x4.9mm_P1.27mm","Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8","MCP6292-E/SN"

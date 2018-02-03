@@ -1,4 +1,4 @@
-update=Montag, 15. Januar 2018 'u23' 22:23:25
+update=Freitag, 02. Februar 2018 'u10' 18:10:13
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,13 @@ LibName28=contrib
 LibName29=valves
 LibName30=switches
 LibName31=DP4T-Slide-Switch
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
