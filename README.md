@@ -2,7 +2,7 @@
 
 ![Front](pcb-front-assembled.jpg)
 
-Due to my in the highest sensitive ranges a littel bit noisy Rigol DS-1054z scope, I decided to provide a small pre-amplifier for low-voltage measurements (a.k.a. electret microphone signals, shunt-voltages, etc.).
+Due to my - in the highest sensitive ranges - a little bit noisy Rigol DS-1054z scope, I decided to provide a small pre-amplifier for low-voltage measurements (a.k.a. electret microphone signals, shunt-voltages, etc.).
 For best performance in the micro-volt range, a dual stage amplifier (both stages provide 10V/1V gain) is built with the [MCP6V27](http://www.microchip.com/wwwproducts/en/MCP6V27). A third and last stage gives the final 10V/1V amplification resulting in a gain of 1000V/1V with a 3db cut-off at ~200 kHz.
 
 For the third stage and the virtual ground a cheaper [MCP6292](http://www.microchip.com/wwwproducts/en/MCP6292) is used.
